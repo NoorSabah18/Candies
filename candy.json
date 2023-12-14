@@ -1,0 +1,97 @@
+{
+    "products": {
+      "chocolateBars": [
+        {
+          "id": 1,
+          "name": "Milk Chocolate Bar",
+          "description": "Smooth and creamy milk chocolate",
+          "price": 2.99,
+          "image": "images/cadbury.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Dark Chocolate Bar",
+          "description": "Rich and indulgent dark chocolate",
+          "price": 3.49,
+          "image": "images/dark.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Hazelnut Crunch Chocolate",
+          "description": "Crunchy hazelnuts embedded in milk chocolate",
+          "price": 4.99,
+          "image": "images/hazelnut.jpg"
+        }
+      ],
+      "pickAndMix": [
+        {
+          "id": 4,
+          "name": "Assorted Gummy Bears",
+          "description": "Colorful and fruity gummy bears",
+          "price": 1.99,
+          "image": "images/gummy.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Sour Candy Assortment",
+          "description": "A mix of sour candies for a tangy experience",
+          "price": 2.49,
+          "image": "images/sour.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Licorice Twists",
+          "description": "Classic black licorice twists",
+          "price": 3.99,
+          "image": "images/twists.jpg"
+        }
+      ],
+      "retro": [
+        {
+          "id": 7,
+          "name": "Nostalgic Candy Mix",
+          "description": "Bringing back the flavors of the past",
+          "price": 5.99,
+          "image": "images/retromix4.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Candy Buttons",
+          "description": "Colorful candy dots on paper strips",
+          "price": 2.99,
+          "image": "images/mn.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Jawbreaker",
+          "description": "Hard candy that changes colors as you lick",
+          "price": 4.49,
+          "image": "images/jaw.jpg"
+        }
+      ],
+      "americanCandy": [
+        {
+          "id": 10,
+          "name": "Hershey's Milk Chocolate",
+          "description": "Iconic American milk chocolate bar",
+          "price": 3.29,
+          "image": "images/Hersheys.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Reese's Peanut Butter Cups",
+          "description": "Milk chocolate cups filled with peanut butter",
+          "price": 4.99,
+          "image": "images/Reese.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Twizzlers Strawberry Twists",
+          "description": "Chewy strawberry-flavored licorice twists",
+          "price": 2.79,
+          "image": "images/Twizzlers.jpg"
+        }
+      ]
+    }
+  }
+  
