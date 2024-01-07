@@ -6,21 +6,21 @@
           "name": "Milk Chocolate Bar",
           "description": "Smooth and creamy milk chocolate",
           "price": 2.99,
-          "image": "images/cadbury.png"
+          "image": "images/cadbury.webp"
         },
         {
           "id": 2,
           "name": "Dark Chocolate Bar",
           "description": "Rich and indulgent dark chocolate",
           "price": 3.49,
-          "image": "images/dark.png"
+          "image": "images/dark.webp"
         },
         {
           "id": 3,
           "name": "Hazelnut Crunch Chocolate",
           "description": "Crunchy hazelnuts embedded in milk chocolate",
           "price": 4.99,
-          "image": "images/hazelnut.png"
+          "image": "images/hazelnut.webp"
         }
       ],
       "pickAndMix": [
@@ -29,21 +29,21 @@
           "name": "Assorted Gummy Bears",
           "description": "Colorful and fruity gummy bears",
           "price": 1.99,
-          "image": "images/gummy.jpg"
+          "image": "images/gummy.webp"
         },
         {
           "id": 5,
           "name": "Sour Candy Assortment",
           "description": "A mix of sour candies for a tangy experience",
           "price": 2.49,
-          "image": "images/sour.jpg"
+          "image": "images/sour.webp"
         },
         {
           "id": 6,
           "name": "Licorice Twists",
           "description": "Classic black licorice twists",
           "price": 3.99,
-          "image": "images/twists.png"
+          "image": "images/twists.webp"
         }
       ],
       "retro": [
@@ -52,21 +52,21 @@
           "name": "Nostalgic Candy Mix",
           "description": "Bringing back the flavors of the past",
           "price": 5.99,
-          "image": "images/retromix4.jpg"
+          "image": "images/retromix4.webp"
         },
         {
           "id": 8,
           "name": "Candy Buttons",
           "description": "Colorful candy dots on paper strips",
           "price": 2.99,
-          "image": "images/mn.jpg"
+          "image": "images/mn.webp"
         },
         {
           "id": 9,
           "name": "Jawbreaker",
           "description": "Hard candy that changes colors as you lick",
           "price": 4.49,
-          "image": "images/jaw.png"
+          "image": "images/jaw.webp"
         }
       ],
       "americanCandy": [
@@ -75,21 +75,21 @@
           "name": "Hershey's Milk Chocolate",
           "description": "Iconic American milk chocolate bar",
           "price": 3.29,
-          "image": "images/Hersheys.png"
+          "image": "images/Hersheys.webp"
         },
         {
           "id": 11,
           "name": "Reese's Peanut Butter Cups",
           "description": "Milk chocolate cups filled with peanut butter",
           "price": 4.99,
-          "image": "images/Reese.png"
+          "image": "images/Reese.webp"
         },
         {
           "id": 12,
           "name": "Twizzlers Strawberry Twists",
           "description": "Chewy strawberry-flavored licorice twists",
           "price": 2.79,
-          "image": "images/Twizzlers.png"
+          "image": "images/Twizzlers.webp"
         }
       ]
     }
